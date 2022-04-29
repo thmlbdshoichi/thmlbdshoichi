@@ -1,5 +1,5 @@
 👋 Hello, I’m Shoichi (Arunwat) 🇯🇵-🇹🇭
-👀 I’m interested in 
+- 👀 I’m interested in 
 - Full-stack Developer & DevOps
 - A.I. (Machine Learning -> Deep Learning -> Object Detection?)
 - Service Provider Network & Cybersecurity
