@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @thmlbdshoichi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-thmlbdshoichi/thmlbdshoichi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hello, I’m Shoichi (Arunwat) 🇯🇵-🇹🇭
+👀 I’m interested in 
+- Full-stack Developer & DevOps
+- A.I. (Machine Learning -> Deep Learning -> Object Detection?)
+- Service Provider Network & Cybersecurity
+- Hardware & Software Co-design
+- 🌱 I’m currently learning Go Programming Language!!! (To be a good Software Backend Engineer)
