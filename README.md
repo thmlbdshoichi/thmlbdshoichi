@@ -14,7 +14,8 @@
 - เริ่มต้นสร้าง Microservices ด้วย Golang จาก Zero สู่ Hero
 - Complete Vue Developer 2023: Zero to Mastery (Pinia, Vitest)
 - The Nuxt 3 Bootcamp - The Complete Developer Guide
-- DevOps Beginners to Advanced with Projects - 2023
+- .NET 8 Microservices: DDD, CQRS, Vertical/Clean Architecture
+
 
 ##### 🌱 Udemy Courses I have already finished
 
