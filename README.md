@@ -1,6 +1,6 @@
 ##### 👋 Hello, I’m Shoichi (Arunwat) 🇯🇵-🇹🇭
 - Currently taking a job position as (Junior) Software Engineer but act as Team Lead
-- @HUMAN ANALYTIC TECHNOLOGY (THAILAND) CO., LTD. (PLUM) since 1 Oct 2022 - Present
+- @HUMAN ANALYTIC TECHNOLOGY (THAILAND) CO., LTD. (PLUM) since 1 Oct 2022 - Present (https://humananalytic.net/)
   
 ##### 👀 I’m interested in
 
